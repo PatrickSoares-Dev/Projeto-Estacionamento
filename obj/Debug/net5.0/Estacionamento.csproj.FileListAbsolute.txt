@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\bin\Debug\net5.0\Estacionamento.exe
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\bin\Debug\net5.0\Estacionamento.deps.json
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\bin\Debug\net5.0\Estacionamento.dll
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\bin\Debug\net5.0\Estacionamento.pdb
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.dll
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\refint\Estacionamento.dll
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.pdb
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\Estacionamento.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Estacionamento\obj\Debug\net5.0\ref\Estacionamento.dll
