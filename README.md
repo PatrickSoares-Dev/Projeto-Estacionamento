@@ -75,6 +75,7 @@ Opção: 4
 
 O programa se encerrou
 
+
 ## Considerações Finais
 
 Este projeto de estacionamento é uma aplicação básica que permite o controle simples de veículos estacionados. Ele pode ser utilizado como ponto de partida para o desenvolvimento de um sistema mais completo, adicionando funcionalidades como persistência de dados e melhorias na interface do usuário.
